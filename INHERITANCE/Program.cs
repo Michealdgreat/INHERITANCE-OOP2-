@@ -14,7 +14,7 @@ namespace INHERITANCE
         static void Main(string[] args)
         {
             
-            //SAMPLES
+            //SAMPLES 
             Car BigCar = new Car();
 
             Corolla whiteCorolla = new Corolla();
